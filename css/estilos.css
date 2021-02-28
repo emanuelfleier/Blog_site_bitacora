@@ -1,4 +1,15 @@
 body{
-    background-color: brown;
+    
 }
 
+.main{
+    width: 70%;
+    margin: 20px auto;
+    border: 1px solid blue;
+    padding: 20px;
+    background: burlywood;
+}
+h2{
+    margin-top: 0px;
+
+}
