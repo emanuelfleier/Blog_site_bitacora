@@ -7,17 +7,17 @@ body{
     margin: 20px auto;
     border: 1px solid blue;
     padding: 20px;
-    background: burlywood;
+    background: rgb(177, 10, 102);
 }
 h2{
     margin-top: 0px;
-    color: darkmagenta;
+    color: chocolate;
 
 }
 .encabezado {
-    background-color: rgb(238, 14, 14);
+    background-color: rgb(68, 0, 255);
     padding: 20px;
-    color: burlywood;
+    color: cornsilk;
     margin-bottom: 20px;
     font-size: 30px;
     box-shadow: 0px 10px 10px black;
