@@ -25,3 +25,18 @@ h2{
 h3{
     color: red;
 }
+
+footer{
+    color: white;
+    padding: 10px;
+    background-color: cadetblue;
+    font-style:normal;
+    box-shadow: 10px 10px 10px yellow;
+
+}
+
+footer_p{
+
+
+
+}
