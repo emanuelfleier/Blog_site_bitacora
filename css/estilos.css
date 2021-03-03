@@ -21,7 +21,32 @@ h2{
     margin-bottom: 20px;
     font-size: 30px;
     box-shadow: 0px 10px 10px black;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
 }
+figure {
+    width: 170px;
+    height: 200px;
+    margin: 0px;
+}
+
+img{
+    width: inherit;
+    height: inherit;
+}
+
 h3{
     color: red;
+}
+
+ul{
+    margin: 0px;
+    list-style: none;
+    display: flex;
+    color: rgb(255, 255, 255);
+}
+a{
+    padding-right: 100px;
+    margin: 0px;
 }
