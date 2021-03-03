@@ -5,3 +5,5 @@ tengo dos perritos!
 Me encanta sacarlos a pasear. 
 
 Soy el nuevo integrante de este proyecto, me dicen Rulo. 
+
+Hola! Mi nombre es Rulo y hoy doy comienzo a mi nueva carrera como colaborador open source!!
